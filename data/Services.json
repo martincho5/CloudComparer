@@ -5,52 +5,6 @@
 			"ref": ""
 		},
 		"service": {
-			"name": "Shared Web hosting",
-			"ref": ""
-		},
-		"aws": [{
-			"name": "",
-			"ref": "",
-			"icon": "none.png"
-		}],
-		"azure": [{
-			"name": "Azure shared App Services",
-			"ref": "https://azure.microsoft.com/en-in/services/app-service/web/",
-			"icon": "Azure App Service - Web App (was Websites).png"
-		}],
-		"google": [{
-			"name": "",
-			"ref": "",
-			"icon": "none.png"
-		}],
-		"ibm": [{
-			"name": "Web hosting services",
-			"ref": "https://www.ibm.com/cloud/websites",
-			"icon": "ibmcloud.png"
-		}],
-		"oracle": [{
-			"name": "",
-			"ref": "",
-			"icon": "none.png"
-		}],
-		"alibaba": [{
-				"name": "Web Hosting",
-				"ref": "https://www.alibabacloud.com/product/hosting",
-				"icon": "ecs.png"
-			},
-			{
-				"name": "Simple Application Server",
-				"ref": "https://www.alibabacloud.com/product/swas",
-				"icon": "ecs.png"
-			}
-		]
-	},
-	{
-		"category": {
-			"name": "Compute",
-			"ref": ""
-		},
-		"service": {
 			"name": "Virtual Server",
 			"ref": ""
 		},
